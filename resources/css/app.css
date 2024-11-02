@@ -1,0 +1,239 @@
+@import 'reset.css';
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+[x-cloak] {
+    display: none !important;
+}
+
+.tippy-box[data-animation=fade][data-state=hidden]{opacity:0}[data-tippy-root]{max-width:calc(100vw - 10px)}.tippy-box{position:relative;background-color:#333;color:#fff;border-radius:4px;font-size:14px;line-height:1.4;white-space:normal;outline:0;transition-property:transform,visibility,opacity}.tippy-box[data-placement^=top]>.tippy-arrow{bottom:0}.tippy-box[data-placement^=top]>.tippy-arrow:before{bottom:-7px;left:0;border-width:8px 8px 0;border-top-color:initial;transform-origin:center top}.tippy-box[data-placement^=bottom]>.tippy-arrow{top:0}.tippy-box[data-placement^=bottom]>.tippy-arrow:before{top:-7px;left:0;border-width:0 8px 8px;border-bottom-color:initial;transform-origin:center bottom}.tippy-box[data-placement^=left]>.tippy-arrow{right:0}.tippy-box[data-placement^=left]>.tippy-arrow:before{border-width:8px 0 8px 8px;border-left-color:initial;right:-7px;transform-origin:center left}.tippy-box[data-placement^=right]>.tippy-arrow{left:0}.tippy-box[data-placement^=right]>.tippy-arrow:before{left:-7px;border-width:8px 8px 8px 0;border-right-color:initial;transform-origin:center right}.tippy-box[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.54,1.5,.38,1.11)}.tippy-arrow{width:16px;height:16px;color:#333}.tippy-arrow:before{content:"";position:absolute;border-color:transparent;border-style:solid}.tippy-content{position:relative;padding:5px 9px;z-index:1}
+
+[type='text']:focus{
+  @apply focus:ring-0 focus:ring-offset-0 focus:outline-none;
+}
+
+input, button, textarea {
+  @apply focus:ring-0 focus:ring-offset-0 focus:outline-none;
+}
+
+@layer base {
+  [type="text"],
+  [type="email"]
+ {
+  @apply  focus:ring-0 focus:ring-offset-0;
+  }
+}
+
+textarea {
+    resize: none;
+}
+
+.textarea-ghost{
+  background: transparent;
+    border: none;
+    padding: 0;
+    outline: none;
+    width: 100%;
+    box-shadow: none;
+    resize: none;
+    transition: none;
+}
+
+.w-content{
+  @apply mx-auto w-full sm:max-w-3xl px-3 sm:px-0;
+}
+
+.w-content-embed-twitter{
+  @apply mx-auto w-full sm:w-[600px] px-3 sm:px-0;
+}
+
+.w-content-embed-caption{
+  @apply mx-auto max-w-3xl text-base leading-5 mt-3 px-4 sm:px-0;
+}
+
+.content-block{
+  @apply my-3;
+}
+
+.content-block-delimiter{
+  @apply mt-3 text-center font-semibold text-3xl;
+}
+
+/*Lists*/
+.content-block-list-unordered{
+  @apply list-disc list-outside;
+}
+
+.content-block-list-ordered{
+  @apply list-decimal list-outside;
+}
+
+.content-block-list-item{
+  @apply my-2 ml-8 break-words;
+}
+
+/* Inline code */
+.inline-code{
+  @apply py-0.5 px-1 bg-primary-50 text-primary-600 font-normal rounded-md;
+}
+
+/*Quotes*/
+.content-quote{
+  @apply bg-gray-50 p-4 rounded-2xl dark:bg-transparent my-6;
+}
+
+.content-block-quote{
+  @apply text-2xl leading-9 mb-2;
+}
+
+.content-quote figcaption{
+  @apply text-base italic;
+}
+
+/*Image*/
+.content-block-image{
+  @apply my-4;
+}
+
+.content-block-image img{
+  @apply mx-auto;
+}
+
+.content-block-image--stretched{
+  @apply w-full max-w-full object-cover;
+}
+
+.content-block-image__caption{
+  @apply mx-auto w-full sm:max-w-3xl px-3 sm:px-0 my-3 text-sm;
+}
+
+.content-block-image--with-background{
+  @apply bg-primary-100 bg-opacity-50 p-10 mx-auto;
+}
+
+.content-block-image--with-border{
+  @apply border-2 border-primary-900 mx-auto;
+}
+.medium-zoom-overlay{
+  z-index: 99;
+}
+
+.medium-zoom-image--opened{
+  z-index: 100;
+}
+.content-wrapper{
+  @apply text-gray-700 dark:text-slate-100;
+}
+
+.content-wrapper p, .cdx-marker{
+  @apply my-3;
+}
+
+.content-wrapper h2, .content-wrapper h3, .content-wrapper h4{
+  @apply font-semibold mt-6 mb-2 text-black dark:text-white;
+}
+
+.content-wrapper h2{
+  @apply text-xl;
+}
+
+.content-wrapper h3{
+  @apply text-lg;
+}
+
+.content-wrapper h4{
+  @apply text-base;
+}
+
+.content-wrapper .cdx-underline{
+  @apply decoration-primary-500/50;
+}
+
+.content-wrapper .cdx-marker{
+  @apply bg-primary-100 py-1 px-0.5 mt-0.5;
+}
+
+.content-wrapper a,
+.comment-body a {
+    @apply text-primary-600/80 border-b border-primary-600/80 cursor-pointer hover:text-red-600/80 hover:border-red-600/80 
+    dark:text-primary-300/90 dark:border-primary-300/90 dark:hover:text-red-300/90 dark:hover:border-red-300/90  transition ease-in duration-150;
+}
+
+.link {
+    @apply text-gray-600 dark:text-slate-200 hover:text-sky-600;
+}
+
+.active {
+    @apply text-sky-500 border-b-2 border-sky-500 dark:text-sky-500 dark:border-sky-500;
+}
+
+.hover {
+    @apply border-b-2 border-transparent hover:text-gray-600 hover:border-gray-300 dark:hover:text-gray-300;
+}
+
+.nav-active-link{
+  @apply text-primary-500 border-primary-500;
+}
+
+.profile-active-link {
+    @apply text-primary-500 border-primary-500;
+}
+
+.replies {
+    @apply relative ml-[20px] sm:ml-[28px];
+}
+
+.reply {
+    @apply relative;
+}
+
+.replies::before {
+    --tw-border-opacity: 1;
+    content: "";
+    display: block;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    border: solid rgb(229 231 235 / var(--tw-border-opacity));
+    border-width: 0 0 0 1px;
+    @apply dark:border-slate-500 -left-[20px] sm:-left-[28px];
+}
+
+.reply::before {
+    position: absolute;
+    z-index: 30;
+    display: block;
+    top: 34px;
+    content: "";
+    height: 5px;
+    border: solid rgb(229 231 235 / var(--tw-bg-opacity));
+    border-width: 0 0 1px 1px;
+    border-bottom-left-radius: 10px;
+    @apply dark:border-slate-500 -left-[20px] sm:-left-[28px] w-[15px] sm:w-[21px];
+}
+
+.replies> :last-child:after {
+    --tw-bg-opacity: 1;
+    background-color: #fff;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 34px;
+    width: 1px;
+    height: calc(100% - 34px);
+    @apply dark:bg-slate-800 -left-[20px] sm:-left-[28px];
+}
+
+/* Flash */
+.alert-warning{
+  @apply bg-warning-200 text-black font-semibold flex items-center justify-center py-3;
+}
+
+.alert-error{
+  @apply bg-red-200 text-black font-semibold flex items-center justify-center py-3;
+}
+
+.alert-success{
+  @apply bg-green-200 text-black font-semibold flex items-center justify-center py-3;
+}

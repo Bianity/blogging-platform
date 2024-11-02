@@ -1,0 +1,66 @@
+{
+    "name": "laravel-lang/native-locale-names",
+    "description": "The project contains native translations of locale names",
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "lang",
+        "languages",
+        "laravel",
+        "laravel-lang",
+        "locale",
+        "locales",
+        "localization",
+        "translation",
+        "translations"
+    ],
+    "authors": [
+        {
+            "name": "Andrey Helldar",
+            "email": "helldar@dragon-code.pro"
+        },
+        {
+            "name": "Laravel-Lang Team",
+            "homepage": "https://laravel-lang.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Laravel-Lang/native-locale-names/issues",
+        "source": "https://github.com/Laravel-Lang/native-locale-names"
+    },
+    "require": {
+        "php": "^8.1",
+        "ext-json": "*",
+        "dragon-code/support": "^6.11"
+    },
+    "require-dev": {
+        "laravel-lang/locales": "^1.6",
+        "laravel-lang/status-generator": "^2.3.1",
+        "pestphp/pest": "^2.24.3",
+        "symfony/var-dumper": "^6.3"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "LaravelLang\\NativeLocaleNames\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "dragon-code/codestyler": true,
+            "ergebnis/composer-normalize": true,
+            "friendsofphp/php-cs-fixer": true,
+            "pestphp/pest-plugin": true,
+            "php-http/discovery": true,
+            "symfony/thanks": true
+        },
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}

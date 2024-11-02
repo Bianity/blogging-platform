@@ -1,0 +1,71 @@
+{
+    "name": "cviebrock/eloquent-taggable",
+    "description": "Easy ability to tag your Eloquent models in Laravel 5.",
+    "keywords": [
+        "laravel",
+        "eloquent",
+        "tag",
+        "tagging",
+        "taggable"
+    ],
+    "homepage": "https://github.com/cviebrock/eloquent-taggable",
+    "support": {
+        "issues": "https://github.com/cviebrock/eloquent-taggable/issues",
+        "source": "https://github.com/cviebrock/eloquent-taggable"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Colin Viebrock",
+            "email": "colin@viebrock.ca"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "illuminate/config": "^10.0",
+        "illuminate/database": "^10.0",
+        "illuminate/support": "^10.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.0",
+        "pestphp/pest": "2.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cviebrock\\EloquentTaggable\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Cviebrock\\EloquentTaggable\\Test\\": "tests"
+        }
+    },
+    "scripts": {
+        "fresh": [
+            "rm -rf vendor composer.lock",
+            "composer install"
+        ],
+        "tests": [
+            "rm -rf build",
+            "XDEBUG_MODE=coverage php vendor/bin/pest"
+        ],
+        "post-autoload-dump": [
+            "@php ./vendor/bin/testbench package:discover --ansi"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Cviebrock\\EloquentTaggable\\ServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}

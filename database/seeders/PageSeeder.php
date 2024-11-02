@@ -1,0 +1,42 @@
+<?php
+
+namespace Database\Seeders;
+
+use App\Models\Page;
+use Illuminate\Database\Seeder;
+
+class PageSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        Page::create([
+            'title' => 'About',
+            'slug' => 'about',
+            'description' => 'This is about description',
+            'content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod exercitationem sapiente, qui consequatur quasi aliquid obcaecati similique sed architecto! Corrupti dolorem, labore nesciunt natus minus sed, delectus quidem corporis fuga iste repellendus at dolor libero cumque quos esse velit, vitae quia! Architecto, sint. Assumenda, accusantium, quis consectetur fugiat ex nam cum ratione vel, mollitia officia quo praesentium nihil odit. Impedit, velit? Repudiandae facere nostrum inventore libero neque, ipsum nihil placeat amet error ipsa quasi blanditiis molestiae atque, reiciendis fugiat sequi quas maiores cum suscipit soluta assumenda odit similique, dicta numquam. Maxime consequatur molestiae iure corrupti incidunt dolor commodi dolore, adipisci velit modi laborum consectetur tempora perspiciatis reprehenderit in maiores obcaecati id atque error dolores rem voluptatem molestias? Nihil ut iste rerum rem explicabo odit! Officia autem officiis facere quas aliquam labore, delectus magni excepturi sint explicabo ad corporis debitis praesentium soluta similique accusamus voluptatum earum cupiditate voluptatem? Sit iure neque dolore. Odit tempore distinctio soluta sunt quas expedita deleniti fugit animi. Cum fuga quae autem accusamus quos cupiditate, repudiandae necessitatibus a obcaecati magni molestias est, optio eveniet voluptatum hic officiis consequatur ipsa, modi possimus? Dolor ab distinctio, sint eos pariatur eveniet sunt nostrum, ipsam, in cum veritatis! Assumenda, perspiciatis facilis eos dolore consequatur illum praesentium neque maxime, laudantium et culpa quia aut optio quis eaque nesciunt porro placeat nulla! Non commodi minus alias dolore nobis. Quasi veritatis sequi sunt sit tempora odit reprehenderit voluptas possimus minima porro? Nulla at voluptatem quo fugit magnam sit omnis quasi sed facere esse. Necessitatibus!',
+        ]);
+        Page::create([
+            'title' => 'Privacy Policy',
+            'slug' => 'privacy-policy',
+            'description' => 'This is policy description',
+            'content' => 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, voluptates labore error maiores tempora itaque unde quo asperiores libero reiciendis officiis perferendis! Debitis, dolore praesentium! Cupiditate facilis dolor laboriosam incidunt, unde voluptate pariatur praesentium iste numquam, in magnam totam quaerat vero alias aperiam rerum magni quia eligendi architecto minima molestias. Nesciunt possimus rem, explicabo vero iure adipisci, veritatis ullam nam aut expedita est quos nobis ipsum fugit modi ipsa debitis. Ut illum, dolorem delectus harum eum maxime error fugiat iusto! Nihil facilis perspiciatis fugit minus error, ullam fugiat repudiandae quas debitis maxime ab consequuntur qui culpa laudantium quis provident quo id officiis natus blanditiis odit optio obcaecati quos. Voluptas eius quos voluptatum accusamus asperiores voluptatem deleniti expedita doloremque commodi, sint temporibus ad voluptatibus maiores adipisci facilis cupiditate ullam vel ipsum iste praesentium veniam corporis saepe eos. Deserunt earum sapiente molestias culpa pariatur accusantium nam saepe unde rem necessitatibus dolore laboriosam illum fugit tenetur ratione quam, repellat tempora, excepturi, facilis nobis incidunt hic. Sit, a quibusdam labore dolores corrupti incidunt reiciendis est dolore perspiciatis, quisquam quo excepturi perferendis porro earum, autem iste! Quis possimus consequuntur perferendis, ipsa, nihil ullam consectetur aspernatur odit eum molestiae tempore molestias ab incidunt aperiam facere accusantium quam. Ipsa odio culpa esse blanditiis, ad velit! Reiciendis, fugiat. Architecto cumque molestiae voluptas tempora ex voluptatem facilis. Eligendi quos ipsam voluptate id ex praesentium, odio quibusdam eum! Voluptatem tempore nemo nesciunt ea consectetur praesentium qui, quas quam saepe quae eos possimus assumenda neque. Sapiente totam perspiciatis corrupti consequuntur quaerat!',
+        ]);
+        Page::create([
+            'title' => 'Terms of Service',
+            'slug' => 'terms-of-service',
+            'description' => 'This is terms description',
+            'content' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum placeat officia vero, incidunt aliquam sequi esse atque facere repellendus doloremque magni quia eos. Sint, error fugiat adipisci pariatur nobis nesciunt animi quasi hic omnis. Dicta dolore quibusdam asperiores optio iste commodi! Nobis fugit laudantium nulla expedita maxime ad? Earum iure cum illo culpa eum minima alias officiis vero sint voluptas! Doloremque quibusdam inventore accusantium quaerat adipisci, sapiente distinctio ea, ex, velit nisi maiores modi necessitatibus optio culpa! Vitae, deserunt, itaque fugit officia illum iusto ab eligendi obcaecati dolore eius, doloribus placeat libero minima? Illum voluptas quo rerum, vero suscipit ex ab adipisci cupiditate explicabo quasi aliquam, ad earum laboriosam aut. Sed fugit deleniti, velit voluptatibus corporis, tenetur at porro iure officiis neque eaque obcaecati eligendi veritatis unde? Deserunt beatae recusandae perferendis exercitationem sed laboriosam sequi excepturi neque, est ad. Dicta libero autem possimus laborum nemo omnis officia earum quas tempore, provident laudantium nobis expedita labore, fuga ratione adipisci consequatur sapiente in iure? Repellendus a quas illum eius perferendis numquam distinctio accusamus suscipit voluptates expedita, nam asperiores natus tempore! Vel vero atque, ut perspiciatis ex possimus corporis, omnis reprehenderit sint neque voluptatem cupiditate officiis. Nemo repudiandae, molestiae expedita, dolorem ullam deserunt animi eius doloremque in nam quibusdam aperiam maxime totam fugiat, culpa repellat. Totam, praesentium, dicta eum dignissimos qui hic earum saepe id quasi atque in autem accusantium vitae pariatur natus. At nostrum corporis eligendi blanditiis. Magnam doloremque totam labore eius temporibus tempora expedita ipsa commodi voluptas fugit, harum, non esse.',
+        ]);
+        Page::create([
+            'title' => 'Community Rules',
+            'slug' => 'community-rules',
+            'description' => 'This is community rules description',
+            'content' => 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non temporibus nobis tempore dolores cupiditate, laudantium, enim dolorum asperiores voluptas id soluta vitae sequi eveniet voluptatem minima debitis illum odio consequuntur porro, ducimus et nisi autem consequatur? Consectetur rerum tempore eos vitae animi. Repellendus tempore illum nemo tenetur, reiciendis voluptates vero saepe. Incidunt quam quisquam repellat ea iste natus corrupti magnam est consequuntur rerum ipsa doloribus nisi aliquam alias a sint, ratione suscipit ut nulla nihil, esse sequi. Inventore cupiditate maiores quod deserunt praesentium blanditiis quam iusto laborum distinctio atque, tenetur dolorem id nostrum doloribus nobis? Fugit soluta deserunt libero consequuntur cumque dolorum blanditiis maxime dolores eius! Quod quaerat autem, nobis quam sequi nesciunt blanditiis? Corrupti amet maxime explicabo hic tempore, nihil ratione iusto in doloribus ipsam dignissimos saepe incidunt minima cum eum ipsa. Quis reprehenderit iste culpa nesciunt iusto nobis quam dignissimos ex molestias laudantium. Similique aperiam harum earum commodi esse ad facere incidunt, amet vel? Sequi, quidem voluptatem rem veritatis esse repellat, nobis repudiandae, deserunt accusantium sint ullam voluptas eaque. Eligendi nihil veniam necessitatibus expedita cum quidem harum, tenetur est temporibus placeat soluta, architecto doloremque quo sapiente quam nam facere vel? Iure iste totam at laborum, accusamus cum nostrum reprehenderit, sint necessitatibus autem eius optio, et vero quis aperiam voluptatum repellendus eaque perspiciatis dolores delectus. Fuga ipsum illum officia hic facere deleniti eaque unde magni. Ullam deserunt molestias fugit minima atque tempora aut dolorem earum soluta quia consequatur molestiae quae eaque ipsam, maxime debitis ad laborum! Iure, laboriosam vero.',
+        ]);
+    }
+}

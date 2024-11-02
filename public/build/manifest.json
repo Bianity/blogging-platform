@@ -1,0 +1,64 @@
+{
+  "__commonjsHelpers-725317a4.js": {
+    "file": "assets/_commonjsHelpers-725317a4.js"
+  },
+  "_livewire.esm-fe689d8d.js": {
+    "file": "assets/livewire.esm-fe689d8d.js",
+    "imports": [
+      "__commonjsHelpers-725317a4.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-bfd509e2.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/filament/cp/theme.css": {
+    "file": "assets/theme-9f9b664f.css",
+    "isEntry": true,
+    "src": "resources/css/filament/cp/theme.css"
+  },
+  "resources/css/tagify.css": {
+    "file": "assets/tagify-6c63a037.css",
+    "isEntry": true,
+    "src": "resources/css/tagify.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-080ec996.js",
+    "imports": [
+      "_livewire.esm-fe689d8d.js",
+      "__commonjsHelpers-725317a4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/cropper.css": {
+    "file": "assets/cropper-94fbf099.css",
+    "src": "resources/js/cropper.css"
+  },
+  "resources/js/cropper.js": {
+    "css": [
+      "assets/cropper-94fbf099.css"
+    ],
+    "file": "assets/cropper-73bdf4d6.js",
+    "isEntry": true,
+    "src": "resources/js/cropper.js"
+  },
+  "resources/js/editor.js": {
+    "file": "assets/editor-9e9bb1d1.js",
+    "imports": [
+      "_livewire.esm-fe689d8d.js",
+      "__commonjsHelpers-725317a4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/editor.js"
+  },
+  "resources/js/tagify.js": {
+    "file": "assets/tagify-c2d7ae9b.js",
+    "imports": [
+      "__commonjsHelpers-725317a4.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/tagify.js"
+  }
+}

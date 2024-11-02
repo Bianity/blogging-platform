@@ -1,0 +1,37 @@
+/* Visit https://aka.ms/tsconfig.json to read more about this file */
+
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "CommonJS",
+        "allowJs": true,
+        "checkJs": false,
+        "declaration": false,
+        "declarationMap": false,
+        "sourceMap": true,
+        "outDir": "./dist/js",
+        "removeComments": true,
+        "strict": true,
+        "noImplicitAny": false /** todo: enable this */,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "strictPropertyInitialization": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": false /** todo: enable this */,
+        "moduleResolution": "node",
+        "baseUrl": "./",
+        "rootDir": "./",
+        "paths": {
+            "*": ["node_modules/*"],
+            "@/*": ["ts/*"],
+            "@tests/*": ["tests/TypeScript/*"]
+        },
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "include": ["ts/**/*.ts", "tests/TypeScript/**/*.ts"],
+    "files": ["ts/global.d.ts"]
+}
