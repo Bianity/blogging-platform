@@ -3,7 +3,7 @@
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Blogging Platform Application</h2>
 
-<p dir="auto"><strong>Bianity is a blogging platform is intended primarily for creating news or thematic websites, blogs, or communities.</p></strong>
+<p dir="auto"><strong>Bianity is a blogging platform is intended primarily for creating news or thematic website, blogs, or communities.</p></strong>
   
 <p dir="auto"><a href="https://bianity.me/" target="_blank" rel="noopener"><strong>Bianity is a blogging platform</strong></a> application built with Laravel, Livewire, Tailwind CSS, and AlpineJS. The script is intended primarily for creating news or thematic websites, blogs, or communities of interest with a large informational context. The script is optimized for search engines, which will bring additional users to your site. It is a fully responsive and mobile-friendly application.</p>
 
