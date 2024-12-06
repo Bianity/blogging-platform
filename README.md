@@ -80,7 +80,7 @@
 <li><a href="https://bianity.me/p/doc/" rel="dofollow">Documentation</a></li>
 <li><a href="https://bianity.me/p/update" rel="dofollow">Changelog</a></li>
 <li><a href="https://bianity.me/contact" rel="dofollow">Contact Team</a></li>
-<li><a href="https://bianity.me/p/Installation" rel="dofollow">Installation</a></li>
+<li><a href="https://bianity.me/p/installation" rel="dofollow">Installation</a></li>
 </ul>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Download</h2>
