@@ -11,7 +11,7 @@
 
 <b>Demo:</b> <a href="https://platform.bianity.me/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
 
-<a href="https://platform.bianity.me/" target="_blank" rel="noopener"><strong>Frontend Demo</strong></a> & <a href="https://platform.bianity.me/" target="_blank" rel="noopener"><strong>Backend Demo User</strong></a> Or <a href="https://platform.bianity.me/cp" target="_blank" rel="noopener"><strong>Frontend Demo Admin & Moderator</strong></a>
+<a href="https://platform.bianity.me/" target="_blank" rel="noopener"><strong>Frontend Demo</strong></a> - <a href="https://platform.bianity.me/login" target="_blank" rel="noopener"><strong>Backend Demo</strong></a><b>: User</b> - <a href="https://platform.bianity.me/cp" target="_blank" rel="noopener"><strong>Frontend Demo</strong></a> <b>: Admin & Moderator</b>
 
 If you want to login as admin, please contact us <a href="https://bianity.me/contact" target="_blank" rel="noopener">here</a>.
 
