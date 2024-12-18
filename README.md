@@ -9,6 +9,8 @@
 
 ![image](https://github.com/user-attachments/assets/2a98030a-4a2e-4dab-89e1-6353ffbaa74d)
 
+<b>Demo:</b> <a href="https://platform.bianity.me/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
+
 
 <h2 class="w-content">Features</h2>
 <ul class="w-content content-block-list-unordered">
