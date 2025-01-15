@@ -83,9 +83,10 @@ If you want to login as admin, please contact us <a href="https://bianity.me/con
 <ul dir="auto">
 <li><a href="https://bianity.me/" rel="dofollow">Bianity.me - Official Website</a></li>
 <li><a href="https://bianity.me/p/doc/" rel="dofollow">Documentation</a></li>
-<li><a href="https://bianity.me/p/update" rel="dofollow">Changelog</a></li>
+<li><a href="https://bianity.me/p/update" rel="dofollow">Changelog / Update</a></li>
 <li><a href="https://bianity.me/contact" rel="dofollow">Contact Team</a></li>
 <li><a href="https://bianity.me/p/installation" rel="dofollow">Installation</a></li>
+<li><a href="https://bianity.me/p/upgrade" rel="dofollow">Upgrade</a></li>
 </ul>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Download</h2>
