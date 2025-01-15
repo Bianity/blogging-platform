@@ -53,7 +53,7 @@ return [
 
     'temporary_file_upload' => [
         'disk' => 'temp',        // Example: 'local', 's3'              | Default: 'default'
-        'rules' => ['required', 'file', 'mimes:png,jpg,jpeg,mp3', 'max:512000'],       // Example: ['file', 'mimes:png,jpg']  | Default: ['required', 'file', 'max:12288'] (12MB)
+        'rules' => ['required', 'file', 'mimes:png,jpg,jpeg,webp,gif,svg,mp3,mp4,mov,avi,wmv,webm,mpeg4,ts,mpg,rm,rmvb,mkv', 'max:512000'],       // Example: ['file', 'mimes:png,jpg']  | Default: ['required', 'file', 'max:12288'] (12MB)
         'directory' => null,   // Example: 'tmp'                      | Default: 'livewire-tmp'
         'middleware' => null,  // Example: 'throttle:5,1'             | Default: 'throttle:60,1'
         'preview_mimes' => [   // Supported file types for temporary pre-signed file URLs...

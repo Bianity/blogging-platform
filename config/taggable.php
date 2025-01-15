@@ -63,7 +63,7 @@ return [
      * create your own class that extends the package's Tag model,
      * then update the configuration below.
      */
-    'model'  => \Cviebrock\EloquentTaggable\Models\Tag::class,
+    'model'  => Cviebrock\EloquentTaggable\Models\Tag::class,
 
     /*
      * The tables used to store the tags in the database.  You can
