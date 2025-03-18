@@ -62,7 +62,7 @@ If you want to login as admin, please contact us <a href="https://bianity.me/con
 <ul class="w-content content-block-list-unordered">
 <li class="content-block-list-item">Nginx</li>
 <li class="content-block-list-item">Mysql 8 or MariaDB</li>
-<li class="content-block-list-item">PHP &gt;= 8.1</li>
+<li class="content-block-list-item">PHP &gt;= 8.2</li>
 <li class="content-block-list-item">GD PHP Extension</li>
 <li class="content-block-list-item">cURL PHP Extension</li>
 <li class="content-block-list-item">BCMath PHP Extension</li>
