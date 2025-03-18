@@ -55,6 +55,8 @@ If you want to login as admin, please contact us <a href="https://bianity.me/con
 <li class="content-block-list-item">Google Analytics</li>
 <li class="content-block-list-item">Easy Installation Using Installation Wizard</li>
 <li class="content-block-list-item">Secure Authentication</li>
+<li class="content-block-list-item">And Many Other Features</li>
+
 </ul>
 <h2 class="w-content">Requirements</h2>
 <ul class="w-content content-block-list-unordered">
