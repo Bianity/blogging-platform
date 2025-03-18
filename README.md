@@ -84,7 +84,7 @@ If you want to login as admin, please contact us <a href="https://bianity.me/con
 
 <ul dir="auto">
 <li><a href="https://bianity.me/" rel="dofollow">Bianity.me - Official Website</a></li>
-<li><a href="https://bianity.me/p/doc/" rel="dofollow">Documentation</a></li>
+<li><a href="https://bianity.me/p/doc" rel="dofollow">Documentation</a></li>
 <li><a href="https://bianity.me/p/update" rel="dofollow">Changelog / Update</a></li>
 <li><a href="https://bianity.me/contact" rel="dofollow">Contact Team</a></li>
 <li><a href="https://bianity.me/p/installation" rel="dofollow">Installation</a></li>
@@ -92,7 +92,7 @@ If you want to login as admin, please contact us <a href="https://bianity.me/con
 </ul>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Download</h2>
-<p>You can <a href="https://bianity.me/p/download/" target="_blank" rel="noopener">download</a> the latest installable version of <a href="https://bianity.me/" target="_blank" rel="noopener">Bianity platform</a> and install to your server.</p>
+<p>You can <a href="https://bianity.me/p/download" target="_blank" rel="noopener">download</a> the latest installable version of <a href="https://bianity.me/" target="_blank" rel="noopener">Bianity platform</a> and install to your server.</p>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Discussion Room</h2>
 <p>If you want to learn more, and want to discuss with our members or our team, you can join our <a href="https://room.bianity.me/" target="_blank" rel="noopener">discussion room</a>.</p>
