@@ -9,7 +9,7 @@
 
 ![image](https://github.com/user-attachments/assets/2a98030a-4a2e-4dab-89e1-6353ffbaa74d)
 
-<b>Demo:</b> <a href="https://newsamrt.bianity.me/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
+<b>Demo:</b> <a href="https://newsmart.bianity.me/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
 
 <a href="https://newsmart.bianity.me/" target="_blank" rel="noopener"><strong>Frontend Demo</strong></a> - <b>User Login:</b> <a href="https://newsmart.bianity.me/login" target="_blank" rel="noopener"><strong>Backend Demo</strong></a> - <b>Admin & Moderator:</b> <a href="https://newsmart.bianity.me/cp" target="_blank" rel="noopener"><strong>Backend Demo</strong></a>
 
