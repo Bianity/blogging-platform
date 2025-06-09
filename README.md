@@ -1,7 +1,7 @@
 <a href="https://blog.bianity.me/" target="_blank" rel="noopener">![image](https://github.com/user-attachments/assets/327106b6-4be0-4e43-9dd4-18f7aca87324)</a>
 
 
-<h2 class="heading-element" dir="auto" tabindex="-1">Blogging Platform Application</h2>
+<h2 class="heading-element" dir="auto" tabindex="-1">Bianity - Blogging Platform Application</h2>
 
 <p dir="auto"><strong>Bianity is a blogging platform is intended primarily for creating news or thematic website, blogs, or communities.</p></strong>
   
