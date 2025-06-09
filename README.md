@@ -15,7 +15,7 @@
 
 If you want to login as admin, please contact us <a href="https://blog.bianity.me/contact" target="_blank" rel="noopener"><b>here</b></a>.
 
-<h2 class="w-content">Features</h2>
+<h2 class="w-content">New Features</h2>
 <ul class="w-content content-block-list-unordered">
 <li class="content-block-list-item">Responsive Design</li>
 <li class="content-block-list-item">SEO Optimized</li>
