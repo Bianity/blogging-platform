@@ -54,7 +54,12 @@ If you want to login as admin, please contact us <a href="https://blog.bianity.m
 <li class="content-block-list-item">Ad Spaces (Google AdSense)</li>
 <li class="content-block-list-item">Google Analytics</li>
 <li class="content-block-list-item">Easy Installation Using Installation Wizard</li>
-<li class="content-block-list-item">Secure Authentication</li>
+<li class="content-block-list-item">Secure Authentication (Two-factor authentication)</li>
+<li class="content-block-list-item">Badges</li>
+<li class="content-block-list-item">Advertisements</li>
+<li class="content-block-list-item">Points system (rating)</li>
+<li class="content-block-list-item">Auto approval system</li>
+<li class="content-block-list-item">CRON support</li>
 <li class="content-block-list-item">And Many Other Features</li>
 
 </ul>
