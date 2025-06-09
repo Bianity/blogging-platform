@@ -1,19 +1,19 @@
-<a href="https://www.bianity.me/" target="_blank" rel="noopener">![image](https://github.com/user-attachments/assets/327106b6-4be0-4e43-9dd4-18f7aca87324)</a>
+<a href="https://blog.bianity.me/" target="_blank" rel="noopener">![image](https://github.com/user-attachments/assets/327106b6-4be0-4e43-9dd4-18f7aca87324)</a>
 
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Blogging Platform Application</h2>
 
 <p dir="auto"><strong>Bianity is a blogging platform is intended primarily for creating news or thematic website, blogs, or communities.</p></strong>
   
-<p dir="auto"><a href="https://bianity.me/" target="_blank" rel="noopener"><strong>Bianity is a blogging platform</strong></a> application built with Laravel, Livewire, Tailwind CSS, and AlpineJS. The script is intended primarily for creating news or thematic websites, blogs, or communities of interest with a large informational context. The script is optimized for search engines, which will bring additional users to your site. It is a fully responsive and mobile-friendly application.</p>
+<p dir="auto"><a href="https://blog.bianity.me/" target="_blank" rel="noopener"><strong>Bianity is a blogging platform</strong></a> application built with Laravel, Livewire, Tailwind CSS, and AlpineJS. The script is intended primarily for creating news or thematic websites, blogs, or communities of interest with a large informational context. The script is optimized for search engines, which will bring additional users to your site. It is a fully responsive and mobile-friendly application.</p>
 
 ![image](https://github.com/user-attachments/assets/2a98030a-4a2e-4dab-89e1-6353ffbaa74d)
 
-<b>Demo:</b> <a href="https://newsmart.bianity.me/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
+<b>Demo:</b> <a href="https://blog.bianity.me/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
 
-<a href="https://newsmart.bianity.me/" target="_blank" rel="noopener"><strong>Frontend Demo</strong></a> - <b>User Login:</b> <a href="https://newsmart.bianity.me/login" target="_blank" rel="noopener"><strong>Backend Demo</strong></a> - <b>Admin & Moderator:</b> <a href="https://newsmart.bianity.me/cp" target="_blank" rel="noopener"><strong>Backend Demo</strong></a>
+<a href="https://blog.bianity.me/" target="_blank" rel="noopener"><strong>Frontend Demo</strong></a> - <b>User Login:</b> <a href="https://blog.bianity.me/login" target="_blank" rel="noopener"><strong>Backend Demo</strong></a> - <b>Admin & Moderator:</b> <a href="https://blog.bianity.me/cp" target="_blank" rel="noopener"><strong>Backend Demo</strong></a>
 
-If you want to login as admin, please contact us <a href="https://bianity.me/contact" target="_blank" rel="noopener"><b>here</b></a>.
+If you want to login as admin, please contact us <a href="https://blog.bianity.me/contact" target="_blank" rel="noopener"><b>here</b></a>.
 
 <h2 class="w-content">Features</h2>
 <ul class="w-content content-block-list-unordered">
@@ -80,19 +80,19 @@ If you want to login as admin, please contact us <a href="https://bianity.me/con
 </ul>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Documentaion</h2>
-<p>To install and run Bianity platform, you'll need to a web-hosting server or you can use&nbsp;<a href="https://bianity.me/p/start" rel="nofollow">Paid hosting</a>&nbsp;for instant launch.</p>
+<p>To install and run Bianity platform, you'll need to a web-hosting server or you can use&nbsp;<a href="https://blog.bianity.me/p/start" rel="nofollow">Paid hosting</a>&nbsp;for instant launch.</p>
 
 <ul dir="auto">
-<li><a href="https://bianity.me/" rel="dofollow">Bianity.me - Official Website</a></li>
-<li><a href="https://bianity.me/p/doc" rel="dofollow">Documentation</a></li>
-<li><a href="https://bianity.me/p/update" rel="dofollow">Changelog / Update</a></li>
-<li><a href="https://bianity.me/contact" rel="dofollow">Contact Team</a></li>
-<li><a href="https://bianity.me/p/installation" rel="dofollow">Installation</a></li>
-<li><a href="https://bianity.me/p/upgrade" rel="dofollow">Upgrade</a></li>
+<li><a href="https://bianity.me/" rel="dofollow">Bianity.me - Store Official Website</a></li>
+<li><a href="https://blog.bianity.me/p/doc" rel="dofollow">Documentation</a></li>
+<li><a href="https://blog.bianity.me/p/update" rel="dofollow">Changelog / Update</a></li>
+<li><a href="https://blog.bianity.me/contact" rel="dofollow">Contact Team</a></li>
+<li><a href="https://blog.bianity.me/p/installation" rel="dofollow">Installation</a></li>
+<li><a href="https://blog.bianity.me/p/upgrade" rel="dofollow">Upgrade</a></li>
 </ul>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Download</h2>
-<p>You can <a href="https://bianity.me/p/download" target="_blank" rel="noopener">download</a> the latest installable version of <a href="https://bianity.me/" target="_blank" rel="noopener">Bianity platform</a> and install to your server.</p>
+<p>You can <a href="https://blog.bianity.me/p/download" target="_blank" rel="noopener">download</a> the latest installable version of <a href="https://bianity.me/" target="_blank" rel="noopener">Bianity platform</a> and install to your server.</p>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Discussion Room</h2>
-<p>If you want to learn more, and want to discuss with our members or our team, you can join our <a href="https://room.bianity.me/" target="_blank" rel="noopener">discussion room</a>.</p>
+<p>If you want to learn more, and want to discuss with our members or our team, you can join our <a href="https://hailovers.com/" target="_blank" rel="noopener">discussion room</a>.</p>
