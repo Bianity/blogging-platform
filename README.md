@@ -88,7 +88,7 @@ If you want to login as admin, please contact us <a href="https://bianity.me/con
 <p>To install and run Bianity platform, you'll need to a web-hosting server or you can use&nbsp;<a href="https://bianity.me/p/start" rel="nofollow">Paid hosting</a>&nbsp;for instant launch.</p>
 
 <ul dir="auto">
-<li><a href="https://bianity.me/" rel="dofollow">Store Official Website - Bianity.me</a></li>
+<li><a href="https://store.bianity.me/" rel="dofollow">Store Official Website - Bianity.me</a></li>
 <li><a href="https://bianity.me/p/doc" rel="dofollow">Documentation</a></li>
 <li><a href="https://bianity.me/p/update" rel="dofollow">Changelog / Update</a></li>
 <li><a href="https://bianity.me/contact" rel="dofollow">Contact Team</a></li>
