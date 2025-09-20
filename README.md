@@ -7,7 +7,7 @@
   
 <p dir="auto"><a href="https://hailovers.com/" target="_blank" rel="noopener"><strong>HaiLovers is a blogging platform</strong></a> application built with Laravel, Livewire, Tailwind CSS, and AlpineJS. The script is intended primarily for creating news or thematic websites, blogs, or communities of interest with a large informational context. The script is optimized for search engines, which will bring additional users to your site. It is a fully responsive and mobile-friendly application.</p>
 
-![image](https://github.com/user-attachments/assets/2a98030a-4a2e-4dab-89e1-6353ffbaa74d)
+![image](https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers.png)
 
 <b>Demo:</b> <a href="https://hailovers.com/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
 
@@ -100,4 +100,12 @@ If you want to login as admin, please contact us <a href="https://hailovers.com/
 <p>You can <a href="https://hailovers.com/p/download" target="_blank" rel="noopener">download</a> the latest installable version of <a href="https://hailovers.com/" target="_blank" rel="noopener">HaiLovers platform</a> and install to your server.</p>
 
 <h2 class="heading-element" dir="auto" tabindex="-1">Discussion Room</h2>
+
 <p>If you want to learn more, and want to discuss with our members or our team, you can join our <a href="https://room.hailovers.com/" target="_blank" rel="noopener">discussion room</a>.</p>
+
+<h2 class="heading-element" dir="auto" tabindex="-1">Screenshot - HaiLovers</h2>
+
+<img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-2-modified.png" width="100%" />
+<img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-3-modified.png" width="100%" />
+<img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-4-modified.png" width="100%" />
+<img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-5-modified.png" width="100%" />
