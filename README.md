@@ -1,4 +1,4 @@
-<a href="https://hailovers.com/" target="_blank" rel="noopener">![image](https://github.com/user-attachments/assets/327106b6-4be0-4e43-9dd4-18f7aca87324)</a>
+<a href="https://hailovers.com/" target="_blank" rel="noopener"><img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/logo.svg" width="100%" /></a>
 
 
 <h2 class="heading-element" dir="auto" tabindex="-1">HaiLovers - Blogging Platform Application</h2>
