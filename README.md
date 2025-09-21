@@ -116,3 +116,8 @@ If you want to login as admin, please contact us <a href="https://hailovers.com/
 <img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-3.png" width="100%" />
 <img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-4.png" width="100%" />
 <img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-5.png" width="100%" />
+<img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-6.png" width="100%" />
+<img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-7.png" width="100%" />
+<img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers-7.png" width="100%" />
+
+<p>And many more features...</p>
