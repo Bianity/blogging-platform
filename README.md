@@ -1,5 +1,10 @@
 <a href="https://hailovers.com/" target="_blank" rel="noopener"><img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/logo.svg" width="100%" /></a>
 
+[![Lovers Website](https://github.com/Bianity/blogging-platform/blob/master/public/images/website-hailovers.com.svg?style=for-the-badge)](https://hailovers.com)
+[![GitHub License](https://github.com/Bianity/blogging-platform/blob/master/public/images/license-mit.svg?style=for-the-badge)](https://github.com/unacms/una/blob/master/license.txt)
+[![Releases Download](https://github.com/Bianity/blogging-platform/blob/master/public/images/download.svg?style=for-the-badge)](https://github.com/Bianity/blogging-platform)
+[![Google Search](https://github.com/Bianity/blogging-platform/blob/master/public/images/google-search.svg?style=for-the-badge)](https://www.google.com/search?q=hailovers)
+[![Official Website](https://github.com/Bianity/blogging-platform/blob/master/public/images/official-site.svg?style=for-the-badge)](https://hailovers.com/)
 
 <h2 class="heading-element" dir="auto" tabindex="-1">HaiLovers - Blogging Platform Application</h2>
 
