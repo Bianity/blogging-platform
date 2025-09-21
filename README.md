@@ -7,7 +7,9 @@
   
 <p dir="auto"><a href="https://hailovers.com/" target="_blank" rel="noopener"><strong>HaiLovers is a blogging platform</strong></a> application built with Laravel, Livewire, Tailwind CSS, and AlpineJS. The script is intended primarily for creating news or thematic websites, blogs, or communities of interest with a large informational context. The script is optimized for search engines, which will bring additional users to your site. It is a fully responsive and mobile-friendly application.</p>
 
-![image](https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-HaiLovers.png)
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuukN6rRXIlpAB_uoHUidogtgy0OpNo2Kqc8Eh0Ihz2aq2YajzBwFy-XGj9OcH6LIW0mRZY0T6enpD0Gc81anZc0FBsjJuGTypQaY-T4wQKkhMSyF1tEYaz1AeKYyMjoFNpGXft5E73mLduZarNXrA52QTA22QfL5-UOu1ZVU0UI_2gfKjX8cwh9xnFWc/s8000/Screenshot-Thumbnail-HaiLovers.png" target="_blank" rel="noopener"><img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-Thumbnail-HaiLovers.png" width="100%" /></a>
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibhUCM9kZ__IezlbggoEQ2SgJ0FTOE8hWEAAgDbXAP1YA5UucREih1AYcDkaA9iubjv7sXC_O-OvWdaN0FgWlF7qMWSEqZ9V8GJCpe1SAhLfEODAplmswMN39D_cgtFjgiNPzXeyudrsb6CQn1Q2zxtynm-_uddsy_baOgj2J8L5C9Oa45Np6ZhhMy2bM/s8000/Screenshot-Cover-HaiLovers.png" target="_blank" rel="noopener"><img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-Cover-HaiLovers.png" width="100%" /></a>
 
 <b>Demo:</b> <a href="https://hailovers.com/" target="_blank" rel="noopener"><strong>Blogging Platform</strong></a>
 
