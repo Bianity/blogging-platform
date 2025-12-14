@@ -12,7 +12,7 @@
   
 <p dir="auto"><a href="https://hailovers.com/" target="_blank" rel="noopener"><strong>HaiLovers is a blogging platform</strong></a> application built with Laravel, Livewire, Tailwind CSS, and AlpineJS. The script is intended primarily for creating news or thematic websites, blogs, or communities of interest with a large informational context. The script is optimized for search engines, which will bring additional users to your site. It is a fully responsive and mobile-friendly application.</p>
 
-<p>You can purchase it on the marketplace available. <a href="https://www.codester.com/items/60519/smart-community-forum-and-blogging-platform?ref=mediastori" target="_blank" rel="noopener"><strong>here</strong></a></p>
+<p>You can purchase it on the marketplace available. <a href="https://www.codester.com/items/60519/smart-community-forum-and-blogging-platform" target="_blank" rel="noopener"><strong>here</strong></a></p>
 
 <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuukN6rRXIlpAB_uoHUidogtgy0OpNo2Kqc8Eh0Ihz2aq2YajzBwFy-XGj9OcH6LIW0mRZY0T6enpD0Gc81anZc0FBsjJuGTypQaY-T4wQKkhMSyF1tEYaz1AeKYyMjoFNpGXft5E73mLduZarNXrA52QTA22QfL5-UOu1ZVU0UI_2gfKjX8cwh9xnFWc/s8000/Screenshot-Thumbnail-HaiLovers.png" target="_blank" rel="noopener"><img src="https://github.com/Bianity/blogging-platform/blob/master/public/images/Screenshot-Thumbnail-HaiLovers.png" width="100%" /></a>
 
